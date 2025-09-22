@@ -1,0 +1,1 @@
+import React from 'react'; import Idea from './Idea'; export default function User(){ return (<div style={{padding:20}}><h2>User</h2><Idea /></div>);}
